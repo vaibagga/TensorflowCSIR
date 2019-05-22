@@ -7,7 +7,7 @@ Tensorflow tutorial for workshop on Data Science organized by CSIR
 
 ```sh
 $ git clone https://github.com/vaibagga/TensorflowCSIR
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 
